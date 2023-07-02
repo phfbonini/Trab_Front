@@ -1,0 +1,66 @@
+#navbar {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000000;
+    box-sizing: border-box;
+    
+}
+
+#navbar h1 a {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding-left: 600px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0.01em 0.01em 0.5em  rgb(55, 0, 255);
+}
+#navbar h1 a:hover {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-left: 600px;
+    text-shadow: 0.1em 0.1em 0.8em  rgb(47, 0, 255);
+   
+}
+.movie-card{
+    text-align: center;
+    padding: 1rem 0.5rem;
+}
+
+
+#navbar form{
+    display: flex;
+    
+   
+}
+
+#navbar input{
+    padding: 0.5rem 1.2rem;
+    border-radius: 10px;
+    border: none;
+    box-shadow: inset 0 0 0.5em black;
+    border:  3px solid #ffffff;
+}
+
+#navbar form button{
+    background-color:#efe2ff ;
+    border:  3px solid #ffffff;
+    border-radius: 10px;
+    color:rgb(89, 0, 255);
+    padding: 0.5rem;
+    margin-left: 5px;
+    font-size: 1.3rem;
+    display:flex;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.4s;
+    text-align: center;
+    box-shadow: inset 0 0 0.3em black;
+}
+
+#navbar form button:hover{
+    background-color: transparent;
+    color: #efe2ff;
+}

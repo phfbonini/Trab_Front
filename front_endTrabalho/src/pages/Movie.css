@@ -1,0 +1,111 @@
+.movie-page{
+   background-image: url("../assets/background.webp");
+   color: white;
+   display: grid;
+}
+.movie-page .info-duração h3{
+  position: relative;
+  bottom: 300px;
+  left: 500px;
+  color: rgb(247, 247, 247);
+  text-shadow: 0.1em 0.1em 0.8em  rgb(255, 255, 254);
+}
+.movie-page .info-duração p{
+  position: relative;
+  bottom: 319px;
+  left: 615px;
+  color: rgb(246, 246, 248);
+}
+.movie-page .movie-card img {
+  width:350px;
+  box-shadow: 0.5px 0.5px 30px #1500ff;
+  border-radius: 20px;
+  position: relative;
+  right:500px;
+  top:50px;
+
+}
+.movie-page .movie-card .tagline {
+  position: relative;
+  right: 500px;
+  top:10px;
+}
+.movie-page .movie-card span{
+  color: gold;
+  position: relative;
+  bottom:-50px;
+  left: -500px;
+}.movie-page .movie-card span svg{
+  color: gold;
+  position: relative;
+  bottom:-4px;
+  left: 0px;
+  
+}
+.movie-page .info-receita h3{
+  position: relative;
+  bottom: 380px;
+  left: 500px;
+  color: rgb(0, 255, 13);
+  text-shadow: 0.1em 0.1em 0.8em  rgb(255, 255, 254);
+  
+}
+.movie-page .info-receita p{
+  position: relative;
+  bottom: 398px;
+  left: 611px;
+  color: white;
+  
+}
+.movie-page .movie-card h2{
+  text-shadow: 0.1em 0.1em 0.8em  rgb(47, 0, 255);
+  position: relative;
+  bottom:530px;
+  left: -20px;
+}
+
+.movie-card span:hover{
+  color: rgb(253, 246, 202);
+  font-size: 30;
+  text-align: center;
+  gap: 0.9rem;
+
+}
+.movie-page .info-orçamento h3{
+  position: relative;
+  bottom:450px;
+  left: 500px;
+  color: rgb(251, 255, 0);
+  text-shadow: 0.1em 0.1em 0.8em  rgb(255, 255, 254);
+}
+.movie-page .info-orçamento p{
+  position: relative;
+  bottom: 468px;
+  left:645px;
+  color: white;
+}
+.movie-page .info-description h3 {
+  position: relative;
+  bottom: 100px;
+  left: 650px;
+  color: rgb(255, 255, 255);
+  text-shadow: 0em 0em 0.8em  rgb(255, 255, 254);
+
+}
+.movie-page .info-description p{
+  position: relative;
+  bottom: 80px;
+  left: 350px;
+  color: white;
+  text-align: center;
+  width: 50%;
+
+}
+
+
+
+
+
+
+
+
