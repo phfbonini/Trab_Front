@@ -1,5 +1,5 @@
-# trabalho-01-web-back
-### Trabalho Avaliativo da Matéria de Web Back-End
+# trabalho-01-web-front
+### Trabalho Avaliativo da Matéria de Web Front-End
 ### Professora: Cláudia Lázara Poiet Sampedro
 ### Aluno: Pedro H. F. Bonini
 ### RA 22.6628-6
